@@ -1,3 +1,6 @@
+
+![React Beautiful dnd](https://media.giphy.com/media/locrjRdNBCV31vhhCE/giphy.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
