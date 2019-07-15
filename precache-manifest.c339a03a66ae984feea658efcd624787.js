@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69485e24ecfefb48b0cc30ec2ce83337",
+    "revision": "00392537e8aff6066937a0581718a64e",
     "url": "/react-beautiful-dnd/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-beautiful-dnd/static/js/2.edba404c.chunk.js"
   },
   {
-    "revision": "04f4843237bf68eed5cd",
-    "url": "/react-beautiful-dnd/static/js/main.0c7cf280.chunk.js"
+    "revision": "d0af142e15ec816aad38",
+    "url": "/react-beautiful-dnd/static/js/main.7323d0aa.chunk.js"
   },
   {
     "revision": "4043530b7129eca06d69",
