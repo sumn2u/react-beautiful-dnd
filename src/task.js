@@ -8,6 +8,7 @@ padding: 8px;
 margin-right: 8px;
 background-color: ${props => (props.isDragDisabled ? 'lightgrey': props.isDragging ? 'lightgreen' : 'white' )};
 display: flex;
+flex-grow: 1;
 
 `;
 
